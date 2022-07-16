@@ -1,7 +1,8 @@
 # Optical Encoder Extension for Microsoft MakeCode
-Author: Rapha Pretorius
-Email: edubotics.za@gmail.com
-[**Optical Encoder** github page here](https://mr-meow-za.github.io/optical-encoder-wheel-distance/)
+* Author: Rapha Pretorius
+* Email: edubotics.za@gmail.com
+* [**Optical Encoder** github page here](https://mr-meow-za.github.io/optical-encoder-wheel-distance/)
+* Still working on this. It is my very first extension :)
 
 **Optical Encoder** aims to make your Smart Robot Car more accurate and versatile by allowing you to track distance travelled and disk slots counted. This will let you make 90 degree turns and move set distances. For example to navigate a maze or a grid with set grid sizes. I was surprised to see there was not yet an encoder extension available so I made one myself. This is my first extension.
 
@@ -61,7 +62,6 @@ Encoder.mmMovedOne()
 
 **Motors and Wheels that I used**
 ![MotorWheels](https://doc-14-7o-docs.googleusercontent.com/docs/securesc/tru6j1ml33fnc4gfjhcoal1ot45h7mu0/vv0jr3ossl6ctl2no5ai5t1kfro3hvhq/1658003325000/01414373054099562668/01414373054099562668/1jckF42cG6JdyERGmcWotfZFQkNcqk3ti?e=download&ax=ACxEAsacSWjObXKtvAaEsKRYBWzBacuehoNBEWoP9iuxfZaoq_pgz1eHJZLtIVvkrUV0ASrSqHYzZlRAG_tD18YZ9ntl32XZ5NBkoC7WRpCtAX3mA8mQFCZQrw9JbV8Rvoe0MlP3Ay6SBg_jLsvKbtjeQtgoA4hf492dW2wFk46psdWg4h9b-PKh8FU27WahIKtOGmUTghVu5ZvDJS7BxrRY3LqstcUSy8V9tkukmZLANi9Jq0g9HYYFTX41pS71MVdYP6Y1eAZh_NC0sN35Gbw3Ih3whGo2wlyCGmS-8Q3epNmKea_87ZJMBMPMaUEY86QU0jDdX2U_kMPv1vj75JMzfav9puoWHdwS9XzcIVVlFG4led_vJl0DhgG0uhjyzVlq3oNaHIsik0BMw2bUzrMW_kY-sf93rrI0dCiWN_pEasJ0h8360M2CB1hIKGpoEBgC9zsbhebPM_GLbVtoBypRfNEgynxnJtHcwV2NuTU6p_dT3BOHXvMkADJSmg6519n-gxCzt_0VOYmYPuxfEKckLQ8ij1vFWg87LwZzo2uLFqmM6dcpdMc9mya368WdH0EY9Pa2hNL2K6Z03Lj6rYkWLYQmgYW8HogZ0G_RbrzWNwVus3vzLq0OVUZGWZOOxYX9_A31-DijJBG-nGF7R0GkjZ0iLaeSU8ZgPrMjAqPiilQEnOXHj8ZAlOG_yTGvMghRq1uKwi94dxA1NjCaW3MB6XRhxrExcaoT9Zn0i6gAri3M8QbvZofZ2bgdykpuvzeKputptkrhht1CGXQPhWnfEsFIZzmGX4nvumks25HjPrS2tlxoAb8Bu9ngZ1EqfSDf_1YERcwmrVDcoQrEwzG360WslErsticfM28uEesS636O2FEU8cL4zj6gthBYEMC7PA&uuid=bc1e07da-279b-4069-b2c6-cf91bd239fb3&authuser=0&nonce=5psdnsklsuu3q&user=01414373054099562668&hash=gjbqvgk1hr3fc75p6pd1uiarj5qeth7n)
-
 
 
 #### Metadata (used for search, rendering)
